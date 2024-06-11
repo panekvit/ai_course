@@ -63,4 +63,60 @@ Answer:
 
 ### gemma
 
+Did you know that the Romans had a special type of bathhouse called a "thermae"? These bathhouses were more than just places for physical hygiene. They were social gathering places where people could relax, socialize, and enjoy various amenities like massages, saunas, cold baths, and swimming pools. 
+
+The Romans believed in the importance of physical and mental cleanliness, and their bathhouses were designed to provide a space for both. People of all ages and social classes frequented the thermae, and they were particularly popular among the wealthy and elite. 
+
+These bathhouses were often lavishly decorated with marble, mosaics, and frescoes. They featured elaborate plumbing systems and central heating, using hypocaust technology to circulate warm air throughout the building. The Romans truly understood the value of relaxation and self-care, and their bathhouses were a testament to their luxurious lifestyle and advanced engineering skills.
+
+## Summary
+
+### GPT-4o
+
+briefly summarize this text and compare
+
+### Summaries and Comparison:
+
+#### Command:
+- **Fun Fact Request:** Asking for a random fun fact about the Roman Empire.
+
+#### Aya:
+- **Summary:** Highlights the Romans' engineering and architectural prowess, focusing on the Colosseum's advanced design, including hydraulic systems for arena effects. Mentions the Colosseum's capacity and the lasting influence of Roman architecture on global styles.
+- **Comparison:** Aya's response focuses on Roman engineering and architecture, emphasizing the technical achievements and historical significance of the Colosseum.
+
+#### Llama3:
+- **Summary:** Describes the "venationes," elaborate animal hunts in Roman arenas, particularly the "Panther Hunt" where hunters attempted to ride panthers. Highlights the excitement and popularity of these events in ancient Rome.
+- **Comparison:** Llama3's response offers a glimpse into Roman entertainment, specifically animal hunts, and portrays the thrill and daring nature of these spectacles.
+
+#### Phi:
+- **Summary:** Introduces the term "excellerare" for someone highly skilled, tracing its roots to the Latin word "excelsior." Mentions the Romans' excellence in various fields, including engineering, architecture, and theater. Emphasizes their overall proficiency and lasting impact.
+- **Comparison:** Phi's response provides a linguistic insight and broadly acknowledges Roman expertise in multiple disciplines, showcasing their cultural and technical achievements.
+
+#### Gemma:
+- **Summary:** Discusses the Roman "thermae" (bathhouses) as social hubs offering amenities like massages and saunas. Highlights their luxurious design, advanced plumbing, and heating systems, reflecting the Roman emphasis on hygiene and relaxation.
+- **Comparison:** Gemma's response focuses on the social and hygienic aspects of Roman life, particularly their bathhouses, illustrating the integration of relaxation and advanced engineering in Roman culture.
+
+### Research Clues and Year Assignments:
+
+#### Clues Analysis:
+1. **Architecture** is less popular than **theater** but more than **engineering**.
+2. **Archery** peaked around **1000 AD**.
+3. **Hunting** is more prominent today than **archery** but not as much as **theater**.
+4. **Theater** emerged early.
+5. **Engineering** remains impactful post **500 AD**.
+
+#### Deduction Process:
+1. **Theater** emerged early → **1 AD**.
+2. **Archery** peaked around **1000 AD**.
+3. **Engineering** is impactful post **500 AD** → **500 AD**.
+4. **Architecture** is less popular than **theater** but more than **engineering** → must be between **1 AD** and **1000 AD**, fitting **100 AD**.
+5. **Hunting** is more prominent today than **archery** but less than **theater** → remaining year is **1500 AD**.
+
+#### Final Assignments:
+- **1 AD:** Theater
+- **100 AD:** Architecture
+- **500 AD:** Engineering
+- **1000 AD:** Archery
+- **1500 AD:** Hunting
+
 
